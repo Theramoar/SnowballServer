@@ -5,7 +5,8 @@
         "appIDs": ["7367KKMU64.mishak.Snowball"],
         "components": [
           {
-            "/": ""
+            "/": "*",
+            "exclude": true
           }
         ]
       }
