@@ -1,12 +1,14 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "7367KKMU64.mishak.Snowball",
-        "paths": [ "/your-path/*" ]
+        "appIDs": ["7367KKMU64.mishak.Snowball"],
+        "components": [
+          {
+            "/": ""
+          }
+        ]
       }
     ]
   }
-}
 }
