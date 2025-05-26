@@ -1,14 +1,7 @@
 {
-  "applinks": {
-    "details": [
-      {
-        "appIDs": ["7367KKMU64.mishak.Snowball"],
-        "components": [
-          {
-            "/": ""
-          }
-        ]
-      }
+  "appclips": {
+    "apps": [
+        "7367KKMU64.mishak.Snowball.Clip"
     ]
   }
 }
